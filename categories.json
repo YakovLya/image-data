@@ -9,7 +9,9 @@
     "Abstract Art",
     "Realism",
     "Russian",
-    "Landscape"
+    "Landscape",
+    "Easy",
+    "Hard"
   ],
   "pictures": [
     "Portrait",
@@ -21,6 +23,8 @@
     "Abstract Art",
     "Realism",
     "Russian",
-    "Landscape"
+    "Landscape",
+    "Easy",
+    "Hard"
   ]
 }
